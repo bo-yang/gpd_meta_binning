@@ -1,0 +1,18 @@
+[bo@cs_bio_hec238 tools]$ ./kmeans.pl -i /home/bo/public_html/GPD/results/MetaclusterData/Dataset_B/gpd-20mer/MetaCluster_B_10specs_out.2
+Counting 4-mer occurrences....
+Clustering reads by K-means....
+	2 clusters => Index I: 1.24287588013489; Xie Beni: 2.17047716202
+	3 clusters => Index I: 1.6999694644002; Xie Beni: 5.79371457321987
+	4 clusters => Index I: 0.68302655233152; Xie Beni: 4.55068079259036
+	5 clusters => Index I: 0.322376425687582; Xie Beni: 7.93358191104299
+	6 clusters => Index I: 0.0275103965103673; Xie Beni: 7.84233821351851
+	7 clusters => Index I: 0.0308594927541486; Xie Beni: 8.34812620643121
+	8 clusters => Index I: 0.0481507634041147; Xie Beni: 8.55956734467848
+	9 clusters => Index I: 0.0168306197034336; Xie Beni: 9.17744420934458
+	10 clusters => Index I: 0.0208576787202401; Xie Beni: 8.92271266210112
+	11 clusters => Index I: 0.00579345069749091; Xie Beni: 8.77214141888385
+	12 clusters => Index I: 0.00401224966033576; Xie Beni: 8.48802153720066
+	13 clusters => Index I: 0.00491965473030799; Xie Beni: 8.17149261091934
+	14 clusters => ^Cls: cannot access MetaCluster_B_10specs_out.2_14_clusts_data*: No such file or directory
+Can't open MetaCluster_B_10specs_out.2_14_clusts_cluster for reading.
+

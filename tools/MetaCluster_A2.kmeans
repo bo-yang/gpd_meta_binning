@@ -1,0 +1,9 @@
+[bo@cs_bio_hec238 tools]$ ./kmeans.pl -i /home/bo/Documents/BioSoft/MetaClusterTA/data/A2/MetaCluster_A2.fna 
+Counting 4-mer occurrences....
+Clustering reads by K-means....
+	2 clusters => Index I: 1.90382817452186; Xie Beni: 3.08422952833958
+	3 clusters => Index I: 0.756383770957481; Xie Beni: 6.32530839959432
+	4 clusters => Index I: 0.112866724971565; Xie Beni: 7.34593675893633
+	5 clusters => ^Cls: cannot access MetaCluster_A2.fna_5_clusts_data*: No such file or directory
+Can't open MetaCluster_A2.fna_5_clusts_cluster for reading.
+

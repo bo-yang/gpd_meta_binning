@@ -1,0 +1,19 @@
+[bo@cs_bio_hec238 tools]$ ./kmeans.pl -i /home/bo/public_html/GPD/results/MetaclusterData/Dataset_A2/2binnings/MetaCluster_A2_out.0 
+Counting 4-mer occurrences....
+Clustering reads by K-means....
+	2 clusters => Index I: 1.63312561857755; Xie Beni: 4.41981470846656
+	3 clusters => Index I: 0.380465461290684; Xie Beni: 6.41943452502386
+	4 clusters => Index I: 0.0422931410009184; Xie Beni: 6.44558157588175
+	5 clusters => Index I: 0.0438732660041741; Xie Beni: 9.92742474628128
+	6 clusters => Index I: 0.154705569581263; Xie Beni: 9.01889542472866
+	7 clusters => Index I: 0.00995658601456017; Xie Beni: 9.08358874368767
+	8 clusters => Index I: 0.00951305341998295; Xie Beni: 11.7723241811958
+	9 clusters => Index I: 0.00836449133381441; Xie Beni: 11.1041363157265
+	10 clusters => Index I: 0.0107187662083042; Xie Beni: 10.5494737521822
+	11 clusters => Index I: 0.0071916739637035; Xie Beni: 10.8111037900361
+	12 clusters => Index I: 0.00357652817262008; Xie Beni: 13.1569318258395
+	13 clusters => Index I: 0.00722600646803347; Xie Beni: 10.9866477383106
+	14 clusters => Index I: 0.00527083029771481; Xie Beni: 10.6686171935606
+	15 clusters => Index I: 0.00449598796683315; Xie Beni: 11.0426656823092
+Parsing clustering results and calculating p-value....
+
