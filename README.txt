@@ -1,5 +1,6 @@
-This is the source code of an unsuccessful project of binning metagenomic
-reads. I publish them in hope that someone can find something helpful.
+This is the source code of metagenomic binning. Metagenomics is the study of
+microbial communities sampled directly from their natural environment, without
+prior culturing. The goal this project is to cluster metagenomic reads into as many species as possible. 
 
 The major assumption is that the mixed metagenomic reads are in different
 generalized Poisson distributions(GPD). Therefore, a GPD model is built and
