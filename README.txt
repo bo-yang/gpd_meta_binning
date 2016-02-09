@@ -21,3 +21,4 @@ Tool to calculate the hypergeometric distribution of Poisson distribution.
 3. ./GPD/gpd
 	g++ -g -o gpd *.h *.cpp -lz -lgsl -lgslcblas -lm
 
+For more articles, please refer to [my blog](http://bo-yang.github.io).
